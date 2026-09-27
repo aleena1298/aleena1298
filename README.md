@@ -62,6 +62,7 @@ A responsive frontend reconstruction of an existing production website, built fo
 An intelligent document-processing platform designed to extract, understand, and interact with information from uploaded documents using OCR and AI.
 
 **React • Node.js • Express • MongoDB • Tesseract.js • LLM API**
+[View Repository](https://github.com/aleena1298/DocuMind)
 
 ---
 
