@@ -1,6 +1,6 @@
 # Hi, I'm Aleena Tariq 👋
 
-### Computer Science Student | Front-End Developer
+### Computer Science Student 
 
 I'm a Computer Science undergraduate at **Quaid-e-Azam University**, interested in building clean, responsive, and user-friendly web applications.
 
